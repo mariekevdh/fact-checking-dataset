@@ -3,6 +3,7 @@
 ## Abstract
 In the digital age, the rapid spread of misinformation and fake news online poses significant challenges to the quality of public discourse. Wikipedia, one of the most widely used and trusted sources of information, operates on an open-edit model where content is contributed and reviewed by volunteer users. While this model allows for a vast and diverse repository of knowledge, it also raises concerns about the reliability and accuracy of its content. This thesis aims to explore how fact-checking is conducted within Wikipedia’s community by creating and analyzing the Wiki-Fact-check-Interaction dataset, a dataset ofWikipedia Talk Page discussions focused on fact-checking. The process involved extracting relevant discussions from English Wikipedia Talk Pages, experimenting with different prompting techniques using the Phi-3 language model to classify these discussions, and using BERTopic for clustering and topic modeling to uncover patterns in the data.
 
+## Dataset
 The resulting dataset can be found on [Kaggle](https://www.kaggle.com/datasets/mariekevdh/wiki-fact-check-interaction). Here you will also find a detailed description of the fields present in the dataset.
 
 ## How to Run the Code
