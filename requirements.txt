@@ -1,0 +1,11 @@
+datasets
+torch
+transformers
+pandas
+accelerate
+tiktoken
+einops
+packaging
+flash-attn
+scikit-learn
+tqdm
